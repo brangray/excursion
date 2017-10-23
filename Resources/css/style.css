@@ -9,7 +9,7 @@ h1 {
 }
 .cta {
   color: aquamarine;
-  font-weight: 16px;
+  font-size: 16px;
   }
 video {
   text-align: center;
@@ -26,4 +26,9 @@ h2 {
 .description {
   color: gray;
   text-align: center
+}
+#Footer {
+  color: gray;
+  text-align: right;
+  font-size: 21px;
 }
